@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+ "CT_PROJECT_KEY" : "dev-na-1",
+"CT_CLIENT_SECRET" : "LUCHHWH4SbH-_O3sUaAkduod86kDmbC_",
+"CT_CLIENT_ID" : "rCyPbXmUmqOh2sRVlt-8JaSF",
+"CT_AUTH_URL" : "https://auth.australia-southeast1.gcp.commercetools.com",
+"CT_API_URL" : "https://api.australia-southeast1.gcp.commercetools.com",
+"CT_SCOPES" : "manage_project:dev-na-1 view_audit_log:dev-na-1 manage_api_clients:dev-na-1 view_api_clients:dev-na-1"
+  }
+}
